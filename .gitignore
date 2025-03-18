@@ -1,0 +1,47 @@
+# Ignore Arduino IDE build files
+*.elf
+*.bin
+*.hex
+*.eep
+*.lss
+*.sym
+*.map
+*.lst
+*.d
+*.o
+*.su
+*.ino.elf
+*.ino.bin
+*.ino.hex
+*.ino.eep
+*.ino.lss
+*.ino.sym
+*.ino.map
+*.ino.lst
+*.ino.d
+*.ino.o
+*.ino.su
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
+*.code-workspace
+
+# Ignore compiled binaries
+/build/
+/out/
+
+# Ignore local settings
+*.local
+*.env
+
+# Ignore macOS files
+.DS_Store
+
+# Ignore Windows files
+Thumbs.db
+Desktop.ini
+
+# Ignore logs and databases
+*.log
+*.sqlite
