@@ -1,1 +1,0 @@
-smart-attendance-system/+-- main.ino+-- wifi_connect.h+-- rfid_reader.h+-- camera_capture.h+-- face_recognition.h+-- attendance_recorder.h+-- lcd_display.h
